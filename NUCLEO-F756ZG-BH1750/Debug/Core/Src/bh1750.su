@@ -1,0 +1,4 @@
+../Core/Src/bh1750.c:12:19:BH1750_SendCmd	24	static
+../Core/Src/bh1750.c:17:19:BH1750_Init	32	static
+../Core/Src/bh1750.c:48:19:BH1750_ReadRaw	32	static
+../Core/Src/bh1750.c:61:19:BH1750_ReadLux	24	static
