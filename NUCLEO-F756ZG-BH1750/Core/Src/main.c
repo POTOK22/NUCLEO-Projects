@@ -49,7 +49,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-volatile float lux;
+float lux;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
